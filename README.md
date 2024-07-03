@@ -1,5 +1,5 @@
 # Shotify
-A offline music player using cpp and #include "MMSystem.h"
-#instructions
-Run the mini.cpp.dev file
-Add as many songs needed in the project folder
+A offline music player using cpp and #include "MMSystem.h" <br>
+# Instructions 
+Run the mini.cpp.dev file <br>
+Add as many songs needed in the project folder <br>
